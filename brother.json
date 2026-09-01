@@ -969,7 +969,13 @@
       },
       {
         "category": "Stock",
-         "items": []
+        "items": [
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1788273587979_1_1000597155.png&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1788273587979_1_1000597155.png",
+            "id": "ST_WP1"
+          }
+        ]
       },
       {
         "category": "Nature",
