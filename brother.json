@@ -971,9 +971,24 @@
         "category": "Stock",
         "items": [
           {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1788273840277_1_1000597157.png&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1788273840277_1_1000597157.png",
+            "id": "ST_WP1"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1788273844701_2_1000597156.png&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1788273844701_2_1000597156.png",
+            "id": "ST_WP2"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1788273848191_3_1000597158.png&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1788273848191_3_1000597158.png",
+            "id": "ST_WP3"
+          },
+          {
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1788273587979_1_1000597155.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1788273587979_1_1000597155.png",
-            "id": "ST_WP1"
+            "id": "ST_WP4"
           }
         ]
       },
