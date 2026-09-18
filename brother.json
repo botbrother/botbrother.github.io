@@ -6,202 +6,217 @@
         "category": "For You",
         "items": [
           {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1789722458349_1_06_synth_horizon.png&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1789722458349_1_06_synth_horizon.png",
+            "id": "FY_WP1"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1789722460013_2_09_ember_waves.png&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1789722460013_2_09_ember_waves.png",
+            "id": "FY_WP2"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1789722461076_3_04_midnight_orbit.png&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1789722461076_3_04_midnight_orbit.png",
+            "id": "FY_WP3"
+          },
+          {
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1789536364670_1_DSC00043.JPG&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1789536364670_1_DSC00043.JPG",
-            "id": "FY_WP1"
+            "id": "FY_WP4"
           },
           {
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1789535807977_1_IMG_5748.PNG&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1789535807977_1_IMG_5748.PNG",
-            "id": "FY_WP3"
+            "id": "FY_WP5"
           },
           {
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1789535448961_1_Iridescence+Photograph23270.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1789535448961_1_Iridescence+Photograph23270.png",
-            "id": "FY_WP4"
+            "id": "FY_WP6"
           },
           {
-            "id": "FY_WP5",
+            "id": "FY_WP7",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_40_00_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_40_00_PM.png"
           },
           {
-            "id": "FY_WP6",
+            "id": "FY_WP8",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_35_00_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_35_00_PM.png"
           },
           {
-            "id": "FY_WP7",
+            "id": "FY_WP9",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_35_13_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_35_13_PM.png"
           },
           {
-            "id": "FY_WP8",
+            "id": "FY_WP10",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_34_50_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_34_50_PM.png"
           },
           {
-            "id": "FY_WP9",
+            "id": "FY_WP11",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_34_36_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_34_36_PM.png"
           },
           {
-            "id": "FY_WP10",
+            "id": "FY_WP12",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_34_24_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_34_24_PM.png"
           },
           {
-            "id": "FY_WP11",
+            "id": "FY_WP13",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_33_36_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_33_36_PM.png"
           },
           {
-            "id": "FY_WP12",
+            "id": "FY_WP14",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_33_25_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_33_25_PM.png"
           },
           {
-            "id": "FY_WP13",
+            "id": "FY_WP15",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_33_13_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_33_13_PM.png"
           },
           {
-            "id": "FY_WP14",
+            "id": "FY_WP16",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_29_53_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_29_53_PM.png"
           },
           {
-            "id": "FY_WP15",
+            "id": "FY_WP17",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_29_46_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_29_46_PM.png"
           },
           {
-            "id": "FY_WP16",
+            "id": "FY_WP18",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_29_16_PM_(2).png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_29_16_PM_(2).png"
           },
           {
-            "id": "FY_WP17",
+            "id": "FY_WP19",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_29_16_PM_(1).png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_29_16_PM_(1).png"
           },
           {
-            "id": "FY_WP18",
+            "id": "FY_WP20",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_29_00_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_29_00_PM.png"
           },
           {
-            "id": "FY_WP19",
+            "id": "FY_WP21",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_28_50_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_28_50_PM.png"
           },
           {
-            "id": "FY_WP20",
+            "id": "FY_WP22",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_28_39_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_28_39_PM.png"
           },
           {
-            "id": "FY_WP21",
+            "id": "FY_WP23",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_28_29_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_28_29_PM.png"
           },
           {
-            "id": "FY_WP22",
+            "id": "FY_WP24",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_28_18_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_28_18_PM.png"
           },
           {
-            "id": "FY_WP23",
+            "id": "FY_WP25",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_28_07_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_28_07_PM.png"
           },
           {
-            "id": "FY_WP24",
+            "id": "FY_WP26",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_27_56_PM_(1).png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_27_56_PM_(1).png"
           },
           {
-            "id": "FY_WP25",
+            "id": "FY_WP27",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_27_44_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_27_44_PM.png"
           },
           {
-            "id": "FY_WP26",
+            "id": "FY_WP28",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_27_57_PM_(2).png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_27_57_PM_(2).png"
           },
           {
-            "id": "FY_WP27",
+            "id": "FY_WP29",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_27_30_PM_(1).png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_27_30_PM_(1).png"
           },
           {
-            "id": "FY_WP28",
+            "id": "FY_WP30",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_27_30_PM_(2).png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_27_30_PM_(2).png"
           },
           {
-            "id": "FY_WP29",
+            "id": "FY_WP31",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_27_10_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_27_10_PM.png"
           },
           {
-            "id": "FY_WP30",
+            "id": "FY_WP32",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_25_05_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_25_05_PM.png"
           },
           {
-            "id": "FY_WP31",
+            "id": "FY_WP33",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_24_59_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_24_59_PM.png"
           },
           {
-            "id": "FY_WP32",
+            "id": "FY_WP34",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_24_53_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_24_53_PM.png"
           },
           {
-            "id": "FY_WP33",
+            "id": "FY_WP35",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_24_39_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_24_39_PM.png"
           },
           {
-            "id": "FY_WP34",
+            "id": "FY_WP36",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_24_46_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_24_46_PM.png"
           },
           {
-            "id": "FY_WP35",
+            "id": "FY_WP37",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_25_11_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_25_11_PM.png"
           },
           {
-            "id": "FY_WP36",
+            "id": "FY_WP38",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_24_33_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_24_33_PM.png"
           },
           {
-            "id": "FY_WP37",
+            "id": "FY_WP39",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_24_27_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_24_27_PM.png"
           },
           {
-            "id": "FY_WP38",
+            "id": "FY_WP40",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_24_21_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_24_21_PM.png"
           },
           {
-            "id": "FY_WP39",
+            "id": "FY_WP41",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_24_15_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_24_15_PM.png"
           },
           {
-            "id": "FY_WP40",
+            "id": "FY_WP42",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_13_12_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_13_12_PM.png"
           },
           {
-            "id": "FY_WP41",
+            "id": "FY_WP43",
             "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_12_16_PM.png&w=400&q=70&output=webp",
             "url": "https://cdn.jsdelivr.net/gh/nothingfirmware/nothingwalls@main/Wallpaper/Download/ChatGPT_Image_Aug_10,_2026,_04_12_16_PM.png"
           }
