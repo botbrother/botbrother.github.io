@@ -1,0 +1,116 @@
+name: Optimize Wallpapers & Update JSON
+
+on:
+  workflow_dispatch: # Actions tab me 'Run workflow' button se chalane ke liye
+
+permissions:
+  contents: write
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install pillow requests
+
+      - name: Download, Compress & Update JSON
+        run: |
+          python - << 'EOF'
+          import json
+          import os
+          import re
+          import requests
+          from io import BytesIO
+          from PIL import Image
+
+          JSON_PATH = "brother.json"
+          OUTPUT_DIR = "Wallpaper/Download"
+          REPO_CDN_BASE = "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download"
+
+          os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+          if not os.path.exists(JSON_PATH):
+              print(f"Error: {JSON_PATH} nahi mila!")
+              exit(1)
+
+          with open(JSON_PATH, "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          total_optimized = 0
+
+          def sanitize_filename(name):
+              return re.sub(r'[^a-zA-Z0-9_\-\.]', '_', name)
+
+          for section in data:
+              categories = section.get("categories", [])
+              for cat in categories:
+                  items = cat.get("items", [])
+                  for item in items:
+                      wall_id = item.get("id", "WP")
+                      original_url = item.get("url", "")
+
+                      if not original_url:
+                          continue
+
+                      # Clean filename generate karna (.webp format)
+                      raw_name = original_url.split("/")[-1].split("?")[0]
+                      base_name = os.path.splitext(raw_name)[0]
+                      safe_name = sanitize_filename(f"{wall_id}_{base_name}") + ".webp"
+                      local_path = os.path.join(OUTPUT_DIR, safe_name)
+
+                      # Agar image already optimized file me exist kare to repeat download skip karega
+                      if not os.path.exists(local_path):
+                          print(f"Downloading: {original_url}")
+                          try:
+                              headers = {"User-Agent": "Mozilla/5.0"}
+                              res = requests.get(original_url, headers=headers, timeout=30)
+                              if res.status_code == 200:
+                                  img = Image.open(BytesIO(res.content))
+                                  
+                                  # Transparency preserve rakhna (PNG ke liye RGBA, standard ke liye RGB)
+                                  if img.mode not in ("RGB", "RGBA"):
+                                      img = img.convert("RGBA" if "A" in img.mode else "RGB")
+
+                                  # High visual quality lossless compression
+                                  img.save(local_path, "WEBP", quality=88, method=6)
+                                  print(f"Saved: {local_path} ({os.path.getsize(local_path) // 1024} KB)")
+                                  total_optimized += 1
+                              else:
+                                  print(f"Failed to fetch {original_url}, status code: {res.status_code}")
+                                  continue
+                          except Exception as e:
+                              print(f"Error processing {original_url}: {e}")
+                              continue
+
+                      # Updated URLs ko set karna
+                      new_url = f"{REPO_CDN_BASE}/{safe_name}"
+                      new_img = f"https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/{safe_name}&w=400&q=70&output=webp"
+
+                      item["url"] = new_url
+                      item["img"] = new_img
+
+          # Updated JSON save karna
+          with open(JSON_PATH, "w", encoding="utf-8") as f:
+              json.dump(data, f, indent=2, ensure_ascii=False)
+
+          print(f"Completed! Total images optimized: {total_optimized}")
+          EOF
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add Wallpaper/Download/ brother.json
+          git diff --staged --quiet || (git commit -m "Auto-optimize wallpapers to WebP and update brother.json" && git push)
