@@ -1596,6 +1596,46 @@
             "id": "AB_WP14"
           }
         ]
+      },
+      {
+        "category": "Anime",
+        "items": [
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791192791619_1_Crimson_Gaze_in_the_Shadows.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791192791619_1_Crimson_Gaze_in_the_Shadows.webp",
+            "id": "AN_WP1"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791192793778_2_Crimson_Moon__Lone_Shinobi_Over_Misty_Peaks.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791192793778_2_Crimson_Moon__Lone_Shinobi_Over_Misty_Peaks.webp",
+            "id": "AN_WP2"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791192795615_3_Emerald_Shadow_Swordsman.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791192795615_3_Emerald_Shadow_Swordsman.webp",
+            "id": "AN_WP3"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791192797353_4_Moonlit_Village_from_the_Rooftop.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791192797353_4_Moonlit_Village_from_the_Rooftop.webp",
+            "id": "AN_WP4"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791192799240_5_Silver-Haired_Blindfolded_Anime_Portrait.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791192799240_5_Silver-Haired_Blindfolded_Anime_Portrait.webp",
+            "id": "AN_WP5"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791192800720_6_Straw_Hat_Sunset_Over_the_Ocean.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791192800720_6_Straw_Hat_Sunset_Over_the_Ocean.webp",
+            "id": "AN_WP6"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791192802885_7_Sunset_Straw_Hat_Adventurer.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791192802885_7_Sunset_Straw_Hat_Adventurer.webp",
+            "id": "AN_WP7"
+          }
+        ]
       }
     ]
   }
