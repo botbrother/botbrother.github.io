@@ -1666,6 +1666,36 @@
             "id": "AN_WP13"
           }
         ]
+      },
+      {
+        "category": "Animals",
+        "items": [
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791354899463_1_Fox_in_the_Midnight_Mist.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791354899463_1_Fox_in_the_Midnight_Mist.webp",
+            "id": "AN_WP1"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791354901019_2_Fiery_Tiger_Emerging_from_Mist.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791354901019_2_Fiery_Tiger_Emerging_from_Mist.webp",
+            "id": "AN_WP2"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791354902502_3_Wolf_in_the_Blue_Mist.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791354902502_3_Wolf_in_the_Blue_Mist.webp",
+            "id": "AN_WP3"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791354904122_4_Regal_Lion_in_Purple_Mist.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791354904122_4_Regal_Lion_in_Purple_Mist.webp",
+            "id": "AN_WP4"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791354905731_5_Misty_Midnight_Panda_Portrait.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1791354905731_5_Misty_Midnight_Panda_Portrait.webp",
+            "id": "AN_WP5"
+          }
+        ]
       }
     ]
   }
