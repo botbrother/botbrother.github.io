@@ -1208,5 +1208,20 @@
         ]
       }
     ]
+  },
+  {
+    "section_title": "Temp",
+    "categories": [
+      {
+        "category": "General",
+        "items": [
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1792441787475_1_1000607193.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1792441787475_1_1000607193.webp",
+            "id": "GE_WP1"
+          }
+        ]
+      }
+    ]
   }
 ]
