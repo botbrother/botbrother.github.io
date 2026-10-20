@@ -1208,5 +1208,35 @@
         ]
       }
     ]
+  },
+  {
+    "section_title": "Atmospheric",
+    "categories": [
+      {
+        "category": "Mystic Beasts",
+        "items": [
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1792470823002_1_Fiery_Tiger_Emerging_from_Mist.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1792470823002_1_Fiery_Tiger_Emerging_from_Mist.webp",
+            "id": "MY_WP1"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1792470824763_2_Fox_in_the_Midnight_Mist.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1792470824763_2_Fox_in_the_Midnight_Mist.webp",
+            "id": "MY_WP2"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1792470826350_3_Misty_Midnight_Panda_Portrait.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1792470826350_3_Misty_Midnight_Panda_Portrait.webp",
+            "id": "MY_WP3"
+          },
+          {
+            "img": "https://wsrv.nl/?url=cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1792470828132_4_Wolf_in_the_Blue_Mist.webp&w=400&q=70&output=webp",
+            "url": "https://cdn.jsdelivr.net/gh/botbrother/botbrother.github.io@main/Wallpaper/Download/WP_1792470828132_4_Wolf_in_the_Blue_Mist.webp",
+            "id": "MY_WP4"
+          }
+        ]
+      }
+    ]
   }
 ]
